@@ -7,4 +7,4 @@
 * Анастасія Фартушняк
 
 
-**[Переглянути проект](https://yaroslavels.github.io/media-content-analyzing-system/)**
+**[Переглянути проект](https://anastasiiiii.github.io/media-content-analyzing-system/)**

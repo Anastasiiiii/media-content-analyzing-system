@@ -1,0 +1,3 @@
+insert into beattype (id, name, description, repo) values (1, 'application/msword', 'Displacement of implanted electronic', '61c767a6fc13ae2fef0000c8');
+insert into beattype (id, name, description, repo) values (2, 'video/quicktime', 'Other fracture of T9-T10 vertebra', '61c767a6fc13ae2fef0000c9');
+insert into beattype (id, name, description, repo) values (3, 'video/x-mpeg', 'Unspecified injury of left i', '61c767a6fc13ae2fef0000ca');

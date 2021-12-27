@@ -14,18 +14,6 @@ const connectionOptions = {
 
 const dbConnection = mysql.createConnection(connectionOptions);
 
-/*
-app.get("/api/beattypes/get/all", function (req, res) {
-    dbConnection.connect(function (r) {
-        if (r) throw r;
-
-        dbConnection.query(`SELECT * FROM beattype `, (err, result, fields) => {
-            if (r) throw r;
-            r.send(result);
-        });
-    });
-});
-*/
 
 app.get('/api/beattypes/get/all', (request, response) => {
     const sql = 'SELECT * FROM beattype ';
